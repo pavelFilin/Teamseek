@@ -2,20 +2,17 @@
 <#import "login.ftl" as login>
 <div class="container-fluid sticky-top navbar-dark bg-dark" id="navigator">
     <nav class="navbar navbar-expand-md navbar ">
-        <a href="/" class="navbar-brand">Fish market</a>
+        <a href="/" class="navbar-brand">Teamseek</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Магазины</a>
+                    <a class="nav-link" href="#">Стартапы</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/news">Новости</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Контакты</a>
+                    <a class="nav-link" href="">Разработчкики</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="#"></a>
